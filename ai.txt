@@ -1,0 +1,9 @@
+“An autonomous car is a vehicle that can guide itself without human conduction. This kind of vehicle has become a concrete reality and may pave the way for future systems where computers take over the art of driving.
+An autonomous car is also known as a driverless car, robot car, self-driving car or autonomous vehicle.
+Driverless cars, including Google's autonomous car design, have logged thousands of hours on American roads, but they are not yet commercially available on a large scale.
+
+Autonomous cars use various kinds of technologies. They can be built with GPS sensing knowledge to help with navigation. They may use sensors and other equipment to avoid collisions. They also have the ability to use a range of technology known as augmented reality, where a vehicle displays information to drivers in new and innovative ways.
+
+Some suggest that significant autonomous car production could cause problems with existing auto insurance and traffic controls used for human-controlled cars. Significant research on autonomous vehicles is underway, not only in the U.S., but also in Europe and other parts of the world. According to some in the industry, it is only a matter of time before these kinds of advances allow us to outsource our daily commute to a computer.
+
+At the same time, mass transit theories like Elon Musk's "hyperloop" design contemplate a future world where more guided transport takes place in public transit systems, rather than with individual car-like vehicles. The autonomous vehicle is not a single device that someday will be ready and start shipping. It’s a system, a collection of inventions applied in a novel way. And, the advance of the original car was constrained and shaped by forces like the growth of the road network and the availability of gasoline.”
